@@ -1,1 +1,3 @@
 du lieu dong 1
+On branch TestXungDot3
+nothing to commit, working tree clean
